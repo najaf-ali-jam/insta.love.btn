@@ -37,3 +37,7 @@ body{
     opacity: 0;
     transition: transform ease 0.4s;
 }
+p {
+    color: red;
+    opacity: 1;
+}
